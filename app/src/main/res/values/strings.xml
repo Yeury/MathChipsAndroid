@@ -1,0 +1,79 @@
+<resources>
+    //Strings for MainActivity
+    <string name="app_name">MathChipsAndroid</string>
+    <string name="welcometxt">Welcome To Math Chips</string>
+    <string name="introtxt">The ultimate application that offers guides and resources to master your algebra skills.</string>
+    <string name="continuebtn">Press here to continue</string>
+
+    //Strings for MainMenu Activity
+    <string name="mainmenutxt">Main Menu</string>
+    <string name="choosetxt">Please choose one of the following topics</string>
+
+    //First column buttons
+    <string name="Numbers">Numbers</string>
+    <string name="Operations">Operations</string>
+    <string name="RatioProportions">Ratios/Proportions</string>
+    <string name="Percents">Percents</string>
+    <string name="Properties">Properties</string>
+    <string name="SolvingEquations">Solving Equations</string>
+    <string name="Inequalities">Inequalities</string>
+
+    //Second column buttons
+    <string name="AbsoluteValues">Absolute Values</string>
+    <string name="Matrices">Matrices</string>
+    <string name="NumberSequences">Number Sequences</string>
+    <string name="Functions">Functions</string>
+    <string name="Exponents">Exponents</string>
+    <string name="ScientificNotation">Scientific Notation</string>
+    <string name="Factoring">Factoring</string>
+
+    //Next Page
+    <string name="MainMenuNextPage">Next Page</string>
+
+
+    //Strings for NumbersSubMenu Activity
+    <string name="NumbersSubHead">Numbers</string>
+    <string name="NumbersSubTxt">Please choose a subtopic</string>
+
+    //Buttons
+    <string name="RationalNumbers">Rational Numbers</string>
+    <string name="Opposites">Opposites</string>
+    <string name="DFConversion">Decimal and Fraction Conversions</string>
+    <string name="SquareRoots">Square Roots</string>
+    <string name="CubeRoots">Cube Roots</string>
+    <string name="NumbersPreviousPage">Previous Page</string>
+
+    //Strings for OperationsSubMenu Activity
+    <string name="OperationsSubHead">Operations</string>
+    <string name="OperationsSubTxt">Please choose a subtopic</string>
+    //Buttons
+    <string name="OperatingIntegers">Operating Integers</string>
+    <string name="NumericalExpressions">Operating Numerical Expressions</string>
+    <string name="VariableExpressions">Operating Variable Expressions</string>
+    <string name="OperationsPreviousPage">Previous Page</string>
+
+    //Strings for RatiosSubMenu Activity
+    <string name="RatiosSubHead">Ratios/Proportions</string>
+    <string name="RatiosSubTxt">Please choose a subtopic</string>
+    //Buttons
+    <string name="IdentifyRatios">Identify Ratios</string>
+    <string name="SolveProportions">Solving Proportions</string>
+    <string name="RatiosPreviousPage">Previous Page</string>
+
+    //Strings for PercentsSubMenu Activity
+    <string name="PercentsSubHead">Ratios/Proportions</string>
+    <string name="PercentsSubTxt">Please choose a subtopic</string>
+    //Buttons
+    <string name="ConvertPercents">Converting Percents</string>
+    <string name="PercentEquations">Percent Equations</string>
+    <string name="PercentPreviousPage">Previous Page</string>
+
+    //Strings for MatricesSubMenu Activity
+    <string name="MatricesSubHead">Matrices</string>
+    <string name="MatricesSubTxt">Please choose a subtopic</string>
+    //Buttons
+    <string name="MatrixBasics">Matrices Basics</string>
+    <string name="AddSubtMatrices">Add and Subtract Matrices</string>
+    <string name="MultiplyMatrices">Multiply Matrices</string>
+    <string name="MatricesPreviousPage">Previous Page</string>
+</resources>
